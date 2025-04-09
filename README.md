@@ -19,4 +19,4 @@ LINK: https://youtu.be/PnoXacy0XOk
 
 ---
 
-✅ Desenvolvido como parte do programa de graduação em Redes de Computadores.
+✅ Desenvolvido como parte do programa de formação superior em Redes de Computadores.
