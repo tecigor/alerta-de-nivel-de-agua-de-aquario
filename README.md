@@ -12,9 +12,7 @@ Este projeto consiste em um sistema de monitoramento simples que utiliza um sens
 Ajudar os aquaristas a monitorar o nível de água em aquários e evitar verificações manuais ou faltas de água que podem prejudicar peixes e plantas.
 
 ## 📁 Arquivos
-- `circuit_diagram.png` – Diagrama elétrico do projeto
-- `sensor_code.ino` – Código-fonte do Arduino
-- `project_report.pdf` – Documentação técnica
+- `NIVEL_DE_AGUA.ino` – Código-fonte do Arduino
 
 ---
 
