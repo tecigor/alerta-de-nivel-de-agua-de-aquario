@@ -14,6 +14,9 @@ Ajudar os aquaristas a monitorar o nível de água em aquários e evitar verific
 ## 📁 Arquivos
 - `NIVEL_DE_AGUA.ino` – Código-fonte do Arduino
 
+## 📷 Vídeo na prática
+LINK: https://youtu.be/PnoXacy0XOk
+
 ---
 
 ✅ Desenvolvido como parte do programa de graduação em Redes de Computadores.
